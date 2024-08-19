@@ -32,5 +32,8 @@ public class Chambre {
     }
     //endregion
 
+    //region Procedure/fonction
+
+    //endregion
 
 }
